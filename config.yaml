@@ -1,8 +1,8 @@
 home:
-  name: Legal Page
-  logo: https://legalpage.org/images/logo.png # 264px * 80px
-  description: Your legal page served from git
-  website: "https://legalpage.org"
+  name: Web.Support Legal Page
+  logo: https://web.support/images/logo.svg # 264px * 80px
+  description: Web.Support Legal Page
+  website: "https://web.support"
   footer: true
 
 pages:
@@ -19,6 +19,6 @@ pages:
   file: imprint.md
 
 placeholder:
- SERVICE: https://legalpage.org
- EMAIL: mail@legalpage.org
- COMPANY: Awesome Company GmbH
+ SERVICE: https://web.support
+ EMAIL: hello@web.support
+ COMPANY: aupa.io GmbH
