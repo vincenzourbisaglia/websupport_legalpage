@@ -1,0 +1,24 @@
+home:
+  name: Legal Page
+  logo: https://legalpage.org/images/logo.png # 264px * 80px
+  description: Your legal page served from git
+  website: "https://legalpage.org"
+  footer: true
+
+pages:
+- name: Privacy
+  file: privacy.md
+
+- name: Terms
+  file: terms.md
+
+- name: Cookies
+  file: cookies.md
+
+- name: Imprint
+  file: imprint.md
+
+placeholder:
+ SERVICE: https://legalpage.org
+ EMAIL: mail@legalpage.org
+ COMPANY: Awesome Company GmbH
