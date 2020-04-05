@@ -6,8 +6,8 @@ home:
   footer: true
 
 theme:
-  primary: '#ff0000'
-  accent: '#00ff00'
+  primary: '#24183F'
+  accent: '#24183F'
 
 pages:
 - name: Privacy
