@@ -3,7 +3,13 @@ home:
   logo: https://web.support/images/logo.svg # 264px * 80px
   description: Web.Support Legal Page
   website: "https://web.support"
-  footer: true
+
+header: 
+  enabled: true
+  
+footer:
+  text: "Proudly served by LegalPage.org"
+  enabled: true
 
 theme:
   primary: '#24183F'
