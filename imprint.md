@@ -1,4 +1,3 @@
-#### Contact
 aupa.io GmbH  
 Fabrikweg 6   
 8370 Sirnach, Schweiz   
